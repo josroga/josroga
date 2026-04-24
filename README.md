@@ -1,16 +1,16 @@
-#  JORGE STIVEN RODRIGUEZ G (master)
-### Software Developer | Student in test Automation QA 
+#  JORGE STIVEN RODRIGUEZ G
+### Software Developer | Test Automation QA 
 **"La tecnologia hace la vida de las personas, mas feliz"**
 
 ![https://github.com/josroga](https://avatars.githubusercontent.com/u/104197785?v=4)
 
 
 ### Acerca de mi
-Soy Jorge Stiven Rodriguez Garzon, Desarrollador de Software en formacion, estudiante en Automatizacion de pruebas QA.
+Soy Jorge Stiven Rodriguez Garzon, Ingeniero de Sistemas.
 Colombiano, de una ciudad muy pequeña donde el corazon se pone caliente Neiva, Huila. 
-Soy estudiante de Tecnologia en Desarrollo de Software, Tecnico en desarrollo web, tecnico en finanzas.
+Soy estudiante de Ingenieria de Sistemas, Tecnico en desarrollo web, tecnico en finanzas.
 Apasionado por las tecnologias y el desarrollo del software.
-Vivo actualmente en Springfield Massachusetts EEUU.
+Vivo actualmente en Neiva Huila Colombia.
 
 
 >
